@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   annotations:
-    backstage.io/techdocs-ref: .
+    backstage.io/techdocs-ref: dir:.
   name: my-techdocs-component
 spec:
   lifecycle: production
