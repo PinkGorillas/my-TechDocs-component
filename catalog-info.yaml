@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  annotations:
+    argocd/app-name: guestbook
+  name: my-argoCD-component
+spec:
+  lifecycle: production
+  owner: my-team
+  type: service
