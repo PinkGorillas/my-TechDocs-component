@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   annotations:
-    argocd/app-name: guestbook
-  name: my-argoCD-component
+    backstage.io/techdocs-ref: pinkfluffyunicorns.txt
+  name: my-techdocs-component
 spec:
   lifecycle: production
   owner: my-team
