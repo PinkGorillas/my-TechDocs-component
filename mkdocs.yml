@@ -3,6 +3,7 @@ site_name: 'example-docs'
 nav:
   - Home: index.md
   - Home/Cars: cars.md
+  - Home/Electric Guitars: electric-guitars.md
 
 plugins:
   - techdocs-core
