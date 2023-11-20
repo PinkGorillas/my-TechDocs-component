@@ -5,6 +5,7 @@ nav:
   - Home/Cars: cars.md
   - Home/Electric Guitars: electric-guitars.md
   - Home/Chinese Food: chinese-food.md
+  - Home/Old Hollywood: old-hollywood.md
 
 plugins:
   - techdocs-core
