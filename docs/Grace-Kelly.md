@@ -1,3 +1,2 @@
-- [ ] High Society
+- [X] High Society
 - [ ] To Catch a Thief
-- [ ] Rear Window
