@@ -1,0 +1,5 @@
+- [ ] To Catch a Thief
+- [ ] Mogambo
+- [ ] The Country Girl
+- [X] High Society
+- [ ] Rear Window
