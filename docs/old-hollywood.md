@@ -1,4 +1,4 @@
-- [ ] The Country Girl
+- [ X] The Country Girl
 - [ ] Rear Window
 - [ ] To Catch a Thief
 - [ ] High Society
