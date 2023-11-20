@@ -13,3 +13,16 @@ Cadillac=fancy
 The earliest car lmao
 
 > A drive down memory lane.
+
+Some basic car functions are:
+```
+drive
+park
+brake
+accelerate
+back up
+shift gear
+activate windshield wiper
+turn on AC
+turn on music
+```
