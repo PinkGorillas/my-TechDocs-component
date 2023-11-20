@@ -1,4 +1,1 @@
-- [X] The Country Girl
-- [ ] Rear Window
-- [ ] To Catch a Thief
-- [ ] High Society
+Old Hollywood was cool! Here are some lists of movies by actor/actress.
