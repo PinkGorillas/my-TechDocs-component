@@ -1,4 +1,0 @@
-- [ ] Top Hat
-- [ ] The Gay Divorcee
-- [ ] Swing Time
-- [ ] Shall We Dance
