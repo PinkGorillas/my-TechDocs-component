@@ -1,6 +1,4 @@
-- [] It's a Wonderful Life
-- [] Top Hat
-- [] Anchors Aweigh
-- [] Sabrina
-- [] To Catch a Thief
-- [] Singing in the Rain
+- [ ] The Country Girl
+- [ ] Rear Window
+- [ ] To Catch a Thief
+- [ ] High Society
