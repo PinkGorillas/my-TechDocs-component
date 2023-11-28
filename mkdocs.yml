@@ -5,6 +5,7 @@ nav:
   - Cars: cars.md
   - Electric Guitars: electric-guitars.md
   - Chinese Food: chinese-food.md
+  - Greeting: hello.md
 
 plugins:
   - techdocs-core
