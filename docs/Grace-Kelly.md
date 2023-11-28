@@ -1,2 +1,0 @@
-- [X] High Society
-- [ ] To Catch a Thief
