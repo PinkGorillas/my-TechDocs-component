@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - Cars: cars.md
   - Electric Guitars: electric-guitars.md
+    - Les Paul: les-pauls.md
   - Chinese Food: chinese-food.md
   - Greeting: hello/hello.md
 
